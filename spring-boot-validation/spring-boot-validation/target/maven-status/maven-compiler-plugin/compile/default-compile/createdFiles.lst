@@ -1,0 +1,3 @@
+com\example\springbootvalidation\SpringBootValidationApplication.class
+com\example\springbootvalidation\models\User.class
+com\example\springbootvalidation\controllers\UserController.class
