@@ -10,3 +10,9 @@ In this repo i worked with
 -Sevrlet
 
 -controllers
+
+-models
+
+-thymeleaf template engine
+
+-sessions
