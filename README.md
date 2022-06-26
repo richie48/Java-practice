@@ -3,18 +3,22 @@
 
 In this repo i worked with
 
--Filters
+-Filters.
 
--Web listeners
+-Web listeners.
 
--Sevrlet
+-Sevrlet.
 
--controllers
+-controllers.
 
--models
+-models.
 
--File upload
+-data access object(dao).
 
--thymeleaf template engine
+-unit test with junits.
 
--sessions
+-File upload.
+
+-thymeleaf template engine for mvc.
+
+-sessions.
