@@ -15,12 +15,14 @@ Just a repo where i play around java. In this repo i worked with
 
 -data access object(dao).
 
--unit test with junits.
+-Exception handling
 
--File upload.
+-logging
+
+-File upload
+
+-unit test with junits.
 
 -thymeleaf template engine for mvc.
 
 -sessions.
-
--logging
