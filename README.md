@@ -22,3 +22,5 @@ In this repo i worked with
 -thymeleaf template engine for mvc.
 
 -sessions.
+
+-logging
