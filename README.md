@@ -13,6 +13,8 @@ In this repo i worked with
 
 -models.
 
+-model validation.
+
 -data access object(dao).
 
 -unit test with junits.
