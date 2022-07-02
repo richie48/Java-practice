@@ -19,6 +19,8 @@ Just a repo where i play around java. In this repo i worked with
 
 -logging
 
+-Spring security(api basic authentication)
+
 -File upload
 
 -unit test with junits.
